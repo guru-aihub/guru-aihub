@@ -43,6 +43,6 @@ R&D study of how far reinforcement learning can be pushed under hard real-time e
 
 ## Find me
 
-- Portfolio — [guru-aihub.github.io](https://guru-aihub.github.io)
+- Portfolio — [steady-gingersnap-b7ba8a.netlify.app](https://steady-gingersnap-b7ba8a.netlify.app/)
 - GitHub — [@guru-aihub](https://github.com/guru-aihub)
 
