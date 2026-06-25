@@ -39,3 +39,10 @@ Local multi-agent system with role-specialized Claude agents for research, writi
 **Edge ML RL for Real-Time Motor Control**
 R&D study of how far reinforcement learning can be pushed under hard real-time embedded constraints. PPO/SAC agents as a supervisory neural controller for a 6H, 15kW industrial motor. SIL Digital Twin calibrated against 20kHz telemetry. Benchmarked MLP/LSTM/GRU against a hard 150 microsecond inference budget on STM32F405 at 168MHz, with INT8 PTQ thresholds and reward functions hardened against reward hacking under stall conditions.
 
+---
+
+## Find me
+
+- Portfolio — [guru-aihub.github.io](https://guru-aihub.github.io)
+- GitHub — [@guru-aihub](https://github.com/guru-aihub)
+
